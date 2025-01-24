@@ -1,6 +1,5 @@
 -- Скрипт для интерфейса Roblox с анимациями и вкладками
 local screenGui = Instance.new("ScreenGui")
-screenGui.Name = "CustomInterface"
 screenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 
 -- Главное меню вкладок
